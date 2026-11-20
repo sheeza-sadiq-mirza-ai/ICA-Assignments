@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "ICA Assignments",
+			"path": ".."
+		},
+		{
+			"name": "ICA Python",
+			"path": "../../ICA Python"
+		},
+		{
+			"name": "testtest",
+			"path": "../../testtest"
+		},
+		{
+			"path": "../../ICA Data Analysis"
+		}
+	],
+	"settings": {}
+}
